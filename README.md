@@ -2,4 +2,6 @@
 
 This is a repo c ontaining work from project 3 from ST558
 
-This is a change being made on github itself
+This is a change being made on github itself.
+
+Example github md document [is called work.md]. (work.html) 
